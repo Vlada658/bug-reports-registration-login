@@ -17,3 +17,5 @@ https://intern.demoshopping.ru/
 
 **Связанные артефакты:**  
 - Test Cases 👉https://github.com/Vlada658/test-cases-registration-login
+
+ Результат: https://docs.google.com/spreadsheets/d/12T3Z6_6iLJ4SpXitqcvJBH-s57R0OGhdxPYnZiwA2PY/edit?usp=sharing
